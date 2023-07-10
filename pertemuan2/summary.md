@@ -1,0 +1,6 @@
+Pada pertemuan 2 di hari Minggu, 9 Juli 2023.
+Pembahasan pada pertemuan ke-2 ini, ialah PHP Dasar. Diawal pertemuan kita membahas tentang Pengertian dan Sejarah PHP. Lalu, berlanjut ke tahap praktikum dimana kita menggunakan apache server yaitu XAMPP. Kita lakukan Download dan Install XAMPP tersebut pada komputer masing2. Setelah itu, kita merujuk penggunaan php dengan code editor VSCode yang dimana penggunaan php harus diawali "<?php ".
+
+Selanjutnya kita membahas tentang variabel pada PHP dan mempraktekannya dengan membuat file variabel.php. Selanjutnya pengenalan tentang tipe data yang ada di PHP. Seperti integer, float, string, boolean dan array. Pada array ini kita belajar tentang 2 jenis array, yaitu array indexing dan array asosiatif. 
+
+Terakhir kita membahas tentang function PHP. Yang kita pelajari function ini ialah "echo" dan "return" yang diaplikasikan pada penjumlahan dan perkalian. Lalu sebelum pertemuan berakhir kita diberikan tugas untuk membuat "summary.md" ini dan "tugas.php" yang diwajib untuk dikumpulkan sebagai tanda kita sudah mempelajarinya.
